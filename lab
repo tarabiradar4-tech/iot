@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>IoT Projects PDF</title>
+
+<style>
+body{
+    font-family: Arial, sans-serif;
+    background:#f2f5f9;
+    text-align:center;
+}
+
+.container{
+    max-width:600px;
+    margin:auto;
+    background:white;
+    padding:25px;
+    margin-top:40px;
+    border-radius:15px;
+    box-shadow:0 0 10px #aaa;
+}
+
+h1{
+    color:#0066cc;
+}
+
+a{
+    display:block;
+    margin:12px;
+    padding:12px;
+    background:#0066cc;
+    color:white;
+    text-decoration:none;
+    border-radius:8px;
+}
+
+a:hover{
+    background:#004999;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>IoT Project Programs</h1>
+<p>PDF Files Collection</p>
+
+<a href="1b.pdf">1. LED PUSH PDF</a>
+
+<a href="2 dht11.pdf">2. DHT11 Sensor PDF</a>
+
+<a href="2b oled.pdf">3. OLED Display PDF</a>
+
+<a href="3 motor.pdf">4. Motor Control PDF</a>
+
+<a href="4 ldr.pdf">5. LDR Sensor PDF</a>
+
+<a href="5 soil.pdf">6. Soil Moisture PDF</a>
+
+<a href="6 ultrasonic.pdf">7. Ultrasonic Sensor PDF</a>
+
+<a href="7 ritrive.pdf">8. ThingSpeak Retrieve PDF</a>
+
+<a href="8 upload.pdf">9. ThingSpeak Upload PDF</a>
+
+<a href="9 udp.pdf">10. UDP Communication PDF</a>
+
+</div>
+
+</body>
+</html>
